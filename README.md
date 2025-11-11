@@ -12,7 +12,9 @@ Credit to JoeyDeVries for base code from learnopengl
 https://github.com/JoeyDeVries/LearnOpenGL
 
 press 1 to be in idle animation
+
 press 2 to pull or push away gun
+
 press 3 to run (only with gun pull out)
 
 P.S. I cant load the 2d face in Neco arc model :(
